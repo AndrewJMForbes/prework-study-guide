@@ -69,7 +69,7 @@ ul#links li {
   text-align: center;
 }
 a:visited {
-  color: coral;
+  color: blue;
 }
 a:hover {
   cursor: pointer;
