@@ -12,14 +12,14 @@ The reason I built this page was in order to help someone who is or will be in m
 
 ## The problem I'm trying to solve
 
- This solves a huge problem when it comes to learning direction. What do i mean by learning direction? Anyone can get on Youtube.com and watch videos on how to do this and how to do that but if you aren't started off facing the right direction you'll just wander aimlessly never arriving at your destination. And don't get me wrong I am in no way saying you can't get on Youtube.com and learn things, but wouldn't it be nice to know what you needed to learn in the order you needed to learn it? So this page helps give you a roadmap in sorts to let you know where your starting points are and which direction you should head towards giving you multiple reference points along the way to know that you're still heading in the right direction. Any time you need to refer back to the page just know that someone else was there too and it's here to hopefully make things easier for future students.
+ This solves a huge problem when it comes to learning direction. What do I mean by learning direction? Anyone can get on Youtube.com and watch videos on how to do this and how to do that but if you aren't started off facing the right direction you'll just wander aimlessly never arriving at your destination. And don't get me wrong I am in no way saying you can't get on Youtube.com and learn things, but wouldn't it be nice to know what you needed to learn in the order you needed to learn it? So this page helps give you a roadmap in sorts to let you know where your starting points are and which direction you should head towards giving you multiple reference points along the way to know that you're still heading in the right direction. Any time you need to refer back to the page just know that someone else was there too and it's here to hopefully make things easier for future students.
 
 ## What I learned
 
 Making this page really helped me with webpage structure using HTML, adding custom colors and modifications using Cascading Style Sheet(CSS), and how to make the page interactive for any and every user visiting it. I learned that it's good to be able to have a reference tool that can be easily accesible, and that there are endless possibilities when it comes to designing an interactive and aesthetically pleasing webpage that can help out people who are or were in my shoes.
 
 
-## Installion
+## Installation
 
 Here I will take you through the steps you would need in order to view and possibly edit my page to where you could help anyone who may come after you.
 
